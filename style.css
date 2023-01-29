@@ -1,0 +1,36 @@
+body {
+    background: black;
+    overflow: hidden;
+}
+
+h1 {
+    position: absolute;
+    animation: expandText 1s;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40vh;
+    font-family: Inconsolata, serif;
+    color: white;
+}
+
+h2 {
+    position: absolute;
+    animation: expandText 2s;
+    margin-top: 80vh;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 5vh;
+    font-family: Inconsolata, serif;
+    color: white;
+}
+
+@keyframes expandText {
+    from {
+        transform: scale(0);
+    }
+    to {
+        transform: scale(1);
+    }
+}
