@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89818bf7-782e-40c4-9db4-0c7afbbb4f63" name="Changes" comment="" />
+    <list default="true" id="89818bf7-782e-40c4-9db4-0c7afbbb4f63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="5ckf27hc" />
   </component>
@@ -25,6 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KzIf5Ju76ANKPF8Prpw9N8sFCC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674971085053</updated>
       <workItem from="1674971086683" duration="1879000" />
-      <workItem from="1674972989767" duration="4526000" />
+      <workItem from="1674972989767" duration="5331000" />
     </task>
     <servers />
   </component>

@@ -8,8 +8,10 @@ h1 {
     animation: expandText 1s;
     width: 100%;
     text-align: center;
+    margin-top: 28vh;
+    justify-content: center;
     font-weight: bold;
-    font-size: 40vh;
+    font-size: 35vh;
     font-family: Inconsolata, serif;
     color: white;
 }
@@ -20,6 +22,7 @@ h2 {
     margin-top: 80vh;
     width: 100%;
     text-align: center;
+    justify-content: center;
     font-weight: bold;
     font-size: 5vh;
     font-family: Inconsolata, serif;
