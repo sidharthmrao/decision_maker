@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="description" content=""/>
     <link rel="stylesheet" type="text/css" href="style.css"/>
-    <link rel="icon" href="images/nope.png">
+    <link rel="icon" href="../sun_tzu_random_quote/images/nope.png">
 </head>
 <body onload="decide()" class="animate-character">
     <h1 id="result"></h1>
@@ -15,8 +15,8 @@
 
 <script>
     function decide() {
-        let decision = Math.random() > .5;
-        if (decision) {
+        let decision = Math.floor(Math.random() * 2);
+        if (decision === 1) {
             document.getElementById("result").innerText = "Yes";
             document.getElementById("sub_result").innerText = "Do it.";
         } else {
